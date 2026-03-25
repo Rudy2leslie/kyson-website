@@ -180,14 +180,14 @@ img {
 }
 
 .logo img {
-    height: 65px;
+    height: 75px;
     width: auto;
     display: block;
 }
 
 .logo-icon {
     width: 40px;
-    height: 65px;
+    height: 75px;
     background-color: var(--primary-color);
     color: white;
     border-radius: 50%;
