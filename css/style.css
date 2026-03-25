@@ -207,7 +207,7 @@ img {
 
 .nav-menu {
     display: flex;
-    gap: 30px;
+    gap: 60px;
 }
 
 .nav-menu a {
@@ -532,7 +532,7 @@ img {
 .features-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 30px;
+    gap: 60px;
 }
 
 .feature-card {
@@ -1016,7 +1016,7 @@ textarea.form-control {
 
 .timeline-item {
     display: flex;
-    gap: 30px;
+    gap: 60px;
     margin-bottom: 40px;
 }
 
@@ -1048,7 +1048,7 @@ textarea.form-control {
 .process-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 30px;
+    gap: 60px;
 }
 
 .process-card {
@@ -1089,7 +1089,7 @@ textarea.form-control {
 .options-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 30px;
+    gap: 60px;
 }
 
 .option-card {
@@ -1189,7 +1189,7 @@ textarea.form-control {
     
     .footer-grid {
         grid-template-columns: 1fr;
-        gap: 30px;
+        gap: 60px;
     }
     
     .section-title {
