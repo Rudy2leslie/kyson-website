@@ -176,6 +176,13 @@ img {
     gap: 10px;
     font-size: 24px;
     font-weight: 700;
+    text-decoration: none;
+}
+
+.logo img {
+    height: 40px;
+    width: auto;
+    display: block;
 }
 
 .logo-icon {
@@ -678,10 +685,10 @@ img {
     margin-bottom: 15px;
 }
 
-.footer-logo .logo-icon {
-    width: 35px;
+.footer-logo img {
     height: 35px;
-    font-size: 16px;
+    width: auto;
+    display: block;
 }
 
 .footer-col p {
